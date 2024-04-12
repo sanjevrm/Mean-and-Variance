@@ -1,5 +1,5 @@
-                                                              Name:Sanjev R M
-                                                              Reg no:212223040186
+                                                                     Name:Sanjev R M
+                                                                     Reg no:212223040186
 
 #  Mean and variance of a discrete  distribution
 
